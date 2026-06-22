@@ -1,7 +1,21 @@
-# tduck1e's corner
-## This is where I store all sorts of my side projects
-### Have fun~
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+# Hi there, I'm Tran Trung Duc 👋
 
+I'm a student at the Hanoi University of Science and Technology (SoICT) majoring in HEDSPI. I am a novice working and learning in the realms of Software Development, DevOps, and Security. I enjoy exploring secure development practices, privacy-first systems, and efficient backend architectures.
+
+### 🛠️ Tech Stack & Environment
+* **Languages & Frameworks:** Rust, TypeScript (NestJS)
+* **Security & CI/CD:** GitLab CI/CD, Trivy, Semgrep, SonarQube
+* **OS:** Arch-based Linux (CachyOS/EndeavourOS)
+
+### 🌱 What I'm learning
+* Expanding my understanding of DevSecOps pipelines and secure coding practices.
+* Studying the Japanese language (targeting N4/N3) for academic and professional communication.
+
+### ⚡ Outside of coding
+* I enjoy unwinding with AAA offline games, particularly titles like *Sekiro: Shadows Die Twice* and *Where Winds Meet*.
+* Tinkering with Linux system configurations and performance optimization.
+
+---
+[![tduck1equack's GitHub stats](https://github-readme-stats.vercel.app/api?username=tduck1equack&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tduck1equack&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
